@@ -6,9 +6,9 @@
 - snmpwalk
 
 ## monitor.sh :
-- Monitors the fetures every minitues
-- The password of the APs are hidden
-- The contents in the folder are the only remaining raw data I could find. 
+The password of the APs are hidden
+The contents in the folder are the remaining raw data. 
+
 [features] can be :
 * staSignalToNoiseRatio
 * wlanAPNumClients

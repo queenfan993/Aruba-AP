@@ -6,8 +6,7 @@
 - snmpwalk
 
 ## monitor.sh :
-The password of the APs are hidden
-The contents in the folder are the remaining raw data. 
+The password of the APs are hidden and the contents in the folder are the remaining raw data. 
 
 [features] can be :
 * staSignalToNoiseRatio
